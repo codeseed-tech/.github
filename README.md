@@ -1,0 +1,2 @@
+# .github
+codeseed.tech
